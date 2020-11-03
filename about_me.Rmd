@@ -6,6 +6,8 @@ output:
     toc_float: true
 ---
 
-# This page has information about me
+# Introduction
+
+My name is poiggy and I have two cats and one dog!
 
 ![](image/linkedInprofile.jpeg)
